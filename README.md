@@ -8,9 +8,11 @@ Este es un generador seguro de contraseñas que utiliza el módulo `uuid` y `bas
 
 Para ejecutar este generador de contraseñas, asegúrate de tener Python instalado en tu sistema. Este código es compatible con Python 3.x.
 
-## Instalación
+## Instalación 
 
 No es necesario instalar ninguna biblioteca adicional, ya que el código utiliza módulos estándar de Python.
+Sin embargo es necesario instalar PYTEST en caso de querer testear el codigo.
+`pipenv install pytest`
 
 ## Uso
 
