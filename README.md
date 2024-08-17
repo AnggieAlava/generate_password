@@ -40,7 +40,7 @@ print(generate_password())
 
 ##### 4. El diagrama de flujo se abrirá en tu editor de diagramas de flujo.
 
-### 5. O puedes ingresar al index.html adjunto aqui en el proyecto, y correr el diagrama de forma local en el navegador.
+##### 5. O puedes ingresar al index.html adjunto aqui en el proyecto, y correr el diagrama de forma local en el navegador.
 
 ## Datos del estudiante
 
