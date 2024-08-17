@@ -49,11 +49,13 @@ print(generate_password())
 - **Email de contacto:** analavaes@uide.edu.ec
 
 ## Correr los test
-
 `pytest -s test.py`
 
-
 ### Link para ver el tutorial de los tests
+⬇️
+⬇️
+⬇️
+⬇️
 ### [Clic aqui para ver como correr los test](https://drive.google.com/file/d/1iUgP6hg1WxcHvmGT5c3nMAf0mazYHubC/view?usp=sharing)
 
 ### Link al Tutorial
