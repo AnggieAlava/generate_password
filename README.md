@@ -48,6 +48,10 @@ print(generate_password())
 - **Semestre:** 1
 - **Email de contacto:** analavaes@uide.edu.ec
 
+## Correr los test
+
+`pytest -s test.py`
+
 ### Link al Tutorial
 
 ⬇️
