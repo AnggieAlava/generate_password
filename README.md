@@ -50,6 +50,6 @@ print(generate_password())
 
 `pytest -s test.py`
 
-### [VIdeo Tutorial]([https://www.linkedin.com/in/anggiealava/](https://drive.google.com/file/d/1Md6aKCUxfR0DCQCD3m38YQZlRDaeoWzp/view?usp=drive_link))
+### [Video Tutorial]([https://www.linkedin.com/in/anggiealava/](https://drive.google.com/file/d/1Md6aKCUxfR0DCQCD3m38YQZlRDaeoWzp/view?usp=drive_link))
 
 ### [Diapositivas]([https://www.linkedin.com/in/anggiealava/](https://drive.google.com/file/d/16p_9qtJLFf7B0jzK8vzMJu2SED9ZCBdn/view?usp=sharing))
