@@ -1,8 +1,17 @@
-# Generador Seguro de Contraseñas
+# PROYECTO INTEGRADOR 
 
-## Descripción
+## Datos del estudiante
+- **Nombre:** Anggie Annabell Alava Espinales
+- **Materia:** Logica de Programación
+- **Carrera:** Ingeniería en Software
+- **Nombre del proyecto:** Generador de Contraseñas 
+- **Pofesora:** Ing. Monica Salazar
+- **Semestre:** 1
+- **Email de contacto:** analavaes@uide.edu.ec
 
-Este es un generador seguro de contraseñas que utiliza el módulo `uuid` y `base64` de Python para crear contraseñas aleatorias y seguras de una longitud especificada. El propósito de esta aplicación es proporcionar una manera fácil y segura de generar contraseñas que cumplan con los estándares de seguridad modernos.
+## Descripción del proyecto
+
+Este es un generador de contraseñas que utiliza el módulo `uuid` y `base64` de Python para crear contraseñas aleatorias y seguras de una longitud especificada. El propósito de esta aplicación es proporcionar una manera fácil y segura de generar contraseñas que cumplan con los estándares de seguridad modernos.
 
 ## Requisitos
 
@@ -10,14 +19,14 @@ Para ejecutar este generador de contraseñas, asegúrate de tener Python instala
 
 ## Instalación 
 
-No es necesario instalar ninguna biblioteca adicional, ya que el código utiliza módulos estándar de Python.
-Sin embargo es necesario instalar PYTEST en caso de querer testear el codigo.
+No es necesario instalar ninguna biblioteca adicional, sin embargo si deseas probar el test que evalua el codigo necesitas instalar `pytest`
+
+Corre el siguiente comando en tu terminal:
 `pipenv install pytest`
 
 ## Uso
 
 El generador de contraseñas está implementado en el siguiente código:
-
 ```python
 import uuid
 import base64
@@ -27,44 +36,18 @@ def generate_password(length: int = 16) -> str:
 
 print(generate_password())
 
-
 ```
 
-### Para visualizar el diagrama de flujo, sigue estos pasos:
+### Puedes viasualizar el diagrama de flujo que describe el proceso del proyecto con esta imagen adjunta:
 
-##### 1. Descarga el archivo draw.io adjunto al proyecto [password.drawio]
+<img src="https://github.com/user-attachments/assets/bf3feb7b-0665-47fe-9a04-de70ce2a28e9" alt="diagramafinal" width="600" height="400"/>
 
-##### 2. Abre el archivo draw.io en tu editor de diagramas de flujo preferido (por ejemplo, draw.io Desktop).
+#### O puedes ingresar al index.html adjunto aqui en el proyecto, y correr el diagrama de forma local en el navegador.
 
-##### 3. Haz clic en "Open Existing Diagram" y selecciona el archivo draw.io descargado.
-
-##### 4. El diagrama de flujo se abrirá en tu editor de diagramas de flujo.
-
-##### 5. O puedes ingresar al index.html adjunto aqui en el proyecto, y correr el diagrama de forma local en el navegador.
-
-## Datos del estudiante
-
-- **Nombre:** Anggie Alava
-- **Materia:** Logica de Programación
-- **Carrera:** Ingeniería en Software
-- **Semestre:** 1
-- **Email de contacto:** analavaes@uide.edu.ec
 
 ## Correr los test
 `pytest -s test.py`
 
-### Link para ver el tutorial de los tests
-⬇️
-⬇️
-⬇️
-⬇️
-### [Clic aqui para ver como correr los test](https://drive.google.com/file/d/1iUgP6hg1WxcHvmGT5c3nMAf0mazYHubC/view?usp=sharing)
+### Link al video explicativo:
 
-### Link al Tutorial
 
-⬇️
-⬇️
-⬇️
-⬇️
-
-### [Clic aquí para ver el Tutorial](https://drive.google.com/file/d/1Sp2htA4kbOBadKkUJStNdJi2_sS-MNCy/view?usp=drive_link)
