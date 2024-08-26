@@ -1,10 +1,11 @@
-# PROYECTO INTEGRADOR 
+# PROYECTO INTEGRADOR
 
 ## Datos del estudiante
+
 - **Nombre:** Anggie Annabell Alava Espinales
 - **Materia:** Logica de Programación
 - **Carrera:** Ingeniería en Software
-- **Nombre del proyecto:** Generador de Contraseñas 
+- **Nombre del proyecto:** Generador de Contraseñas
 - **Pofesora:** Ing. Monica Salazar
 - **Semestre:** 1
 - **Email de contacto:** analavaes@uide.edu.ec
@@ -17,7 +18,7 @@ Este es un generador de contraseñas que utiliza el módulo `uuid` y `base64` de
 
 Para ejecutar este generador de contraseñas, asegúrate de tener Python instalado en tu sistema. Este código es compatible con Python 3.x.
 
-## Instalación 
+## Instalación
 
 No es necesario instalar ninguna biblioteca adicional, sin embargo si deseas probar el test que evalua el codigo necesitas instalar `pytest`
 
@@ -27,6 +28,7 @@ Corre el siguiente comando en tu terminal:
 ## Uso
 
 El generador de contraseñas está implementado en el siguiente código:
+
 ```python
 import uuid
 import base64
@@ -44,11 +46,10 @@ print(generate_password())
 
 #### O puedes ingresar al index.html adjunto aqui en el proyecto, y correr el diagrama de forma local en el navegador.
 
-
 ## Correr los test
+
 `pytest -s test.py`
 
 ### Link al video explicativo:
+
 ### Link a las diapositivas:
-
-
