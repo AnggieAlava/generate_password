@@ -3,7 +3,7 @@ import base64
 
 
 def generate_password(length: int = 16) -> str:
-    return base64.b64encode(uuid.uuid4().bytes).decode()[0:length]
+    return base64.b64encode(uuid.uuid4().bytes).decode()[0:length] 
 
 
 if __name__ == "__main__":
@@ -14,4 +14,6 @@ if __name__ == "__main__":
 
 # Conversión a Bytes: uuid.uuid4().bytes = b'Nolu\x9f\xa4A\xb9\x80\xd3\x8d^i\xc7<\x0b'
 
-# Codificación en Base64 = Tm9sdWn6RBudwNw1Ym0DBw==
+# Codificación en Base64 = b'Tm9sdWn6RBudwNw1Ym0DBw=='.
+
+# Decodificacion en una cadena de texto = Tm9sdWn6RBudwNw1Ym0DBw==.
