@@ -49,5 +49,6 @@ print(generate_password())
 `pytest -s test.py`
 
 ### Link al video explicativo:
+### Link a las diapositivas:
 
 
