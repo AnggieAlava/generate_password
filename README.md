@@ -40,7 +40,7 @@ print(generate_password())
 
 ### Puedes viasualizar el diagrama de flujo que describe el proceso del proyecto con esta imagen adjunta:
 
-<img src="https://github.com/user-attachments/assets/bf3feb7b-0665-47fe-9a04-de70ce2a28e9" alt="diagramafinal" width="600" height="400"/>
+<img src="https://github.com/user-attachments/assets/bf3feb7b-0665-47fe-9a04-de70ce2a28e9" alt="diagramafinal" width="300" height="500"/>
 
 #### O puedes ingresar al index.html adjunto aqui en el proyecto, y correr el diagrama de forma local en el navegador.
 
